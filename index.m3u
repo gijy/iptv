@@ -1,0 +1,9 @@
+#EXTM3U 
+#EXTINF:-1,CCTV
+channels/cctv.m3u
+#EXTINF:-1,山东频道
+channels/sd.m3u
+#EXTINF:-1,卫视频道
+channels/ws.m3u
+#EXTINF:-1,其他频道
+channels/qt.m3u
