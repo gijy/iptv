@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1 ,====== 山东频道 ======
+http://1/1.m3u8
+#EXTINF:-1 group-title=山东移动直播源,山东卫视高清
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000301/index.m3u8
+#EXTINF:-1 group-title=山东移动直播源,泰安综合高清
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000269/index.m3u8
+#EXTINF:-1 group-title=山东移动直播源,泰安公共
+http://39.137.76.32:8089/00/SNM/CHANNEL00000270/index.m3u8
+#EXTINF:-1 group-title=山东移动直播源,济南新闻综合高清
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000312/index.m3u8
+#EXTINF:-1 group-title=山东移动直播源,山东公共高清
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000314/index.m3u8
+#EXTINF:-1 group-title=山东移动直播源,齐鲁频道高清
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000313/index.m3u8
+#EXTINF:-1 group-title=山东移动直播源,山东生活高清
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000336/index.m3u8
+#EXTINF:-1 group-title=山东移动直播源,山东综艺高清
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000338/index.m3u8
+#EXTINF:-1 group-title=山东移动直播源,山东影视高清
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000337/index.m3u8
+#EXTINF:-1 group-title=山东移动直播源,山东体育高清
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000315/index.m3u8
+#EXTINF:-1 group-title=山东移动直播源,山东教育高清
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000331/index.m3u8
+#EXTINF:-1 group-title=山东移动直播源,山东农科高清
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000339/index.m3u8
+#EXTINF:-1 group-title=山东移动直播源,山东少儿高清
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000340/index.m3u8
