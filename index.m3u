@@ -23,11 +23,11 @@ http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221227401/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225591/index.m3u8
 #EXTINF:-1 group-title=CCTV,CCTV5体育普清
 http://112.17.40.140/PLTV/88888888/224/3221226554/index.m3u8
-#EXTINF:-1 group-title=山东移动直播源,CCTV5+高清
+#EXTINF:-1 group-title=山东移动直播源,CCTV5+体育赛事高清
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000316/index.m3u8
-#EXTINF:-1 group-title=CCTV,CCTV5+高清
+#EXTINF:-1 group-title=CCTV,CCTV5+体育赛事高清
 http://183.207.249.14/PLTV/3/224/3221225604/index.m3u8
-#EXTINF:-1 group-title=CCTV,CCTV5+高清
+#EXTINF:-1 group-title=CCTV,CCTV5+体育赛事高清
 http://117.169.120.132:8080/live/hdcctv05plus/playlist.m3u8
 #EXTINF:-1 group-title=CCTV,CCTV5+体育赛事高清
 http://112.17.40.140/PLTV/88888888/224/3221226406/index.m3u8
@@ -41,7 +41,7 @@ http://112.17.40.140/PLTV/88888888/224/3221226433/index.m3u8
 http://112.17.40.140/PLTV/88888888/224/3221226487/index.m3u8
 #EXTINF:-1 group-title=山东移动直播源,CCTV7国防军事高清
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000318/index.m3u8
-#EXTINF:-1 group-title=山东移动直播源,CCTV-8电视剧高清
+#EXTINF:-1 group-title=山东移动直播源,CCTV8电视剧高清
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225608/index.m3u8
 #EXTINF:-1 group-title=CCTV,CCTV8电视剧普清
 http://112.17.40.140/PLTV/88888888/224/3221226330/index.m3u8
@@ -51,11 +51,11 @@ http://117.169.120.132:8080/live/cctv-8/playlist.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000319/index.m3u8
 #EXTINF:-1 group-title=山东移动直播源,CCTV10科教高清
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000321/index.m3u8
-#EXTINF:-1 group-title=CCTV,CCTV-11戏曲高清
+#EXTINF:-1 group-title=CCTV,CCTV11戏曲高清
 http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226315/1.m3u8
 #EXTINF:-1 group-title=CCTV,CCTV11戏曲HD
 http://112.17.40.140/PLTV/88888888/224/3221226219/index.m3u8
-#EXTINF:-1 group-title=山东移动直播源,CCTV-11戏曲普清
+#EXTINF:-1 group-title=山东移动直播源,CCTV11戏曲普清
 http://39.137.76.32:8089/00/SNM/CHANNEL00000011/index.m3u8
 #EXTINF:-1 group-title=山东移动直播源,CCTV12社会与法高清
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000322/index.m3u8
