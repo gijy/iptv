@@ -3,14 +3,18 @@
 
 想做个【目录】→【分目录】，比如：index.m3u 中，代码：
 
-#EXTM3U 
+#EXTM3U
+
 #EXTINF:-1,央视频道
+
 channels/cctv.m3u
 
 cctv.m3u的代码：
 
 #EXTM3U
+
 #EXTINF:-1,CCTV1高清
+
 http://www.ww.com/ww/index.m3u8
 
 结果下载index.m3u后，还是源代码，不能引用cctv.m3u，怎么做啊。
