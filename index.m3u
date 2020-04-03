@@ -1,27 +1,27 @@
 #EXTM3U
 #EXTINF:-1 ,====== 央视卫视 ======
 http://0/0.m3u8
-#EXTINF:-1 group-title=山东移动直播源,CCTV1高清
+#EXTINF:-1 group-title=山东移动直播源,CCTV1综合高清
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000311/index.m3u8
-#EXTINF:-1 group-title=山东移动直播源,CCTV2高清
+#EXTINF:-1 group-title=山东移动直播源,CCTV2财经高清
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000317/index.m3u8
-#EXTINF:-1 group-title=CCTV,CCTV3高清
+#EXTINF:-1 group-title=CCTV,CCTV3综艺高清
 http://183.207.249.5/PLTV/3/224/3221225588/index.m3u8
-#EXTINF:-1 group-title=CCTV,CCTV3高清
+#EXTINF:-1 group-title=CCTV,CCTV3综艺高清
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225606/index.m3u8
-#EXTINF:-1 group-title=CCTV,CCTV3普清
+#EXTINF:-1 group-title=CCTV,CCTV3综艺普清
 http://112.17.40.140/PLTV/88888888/224/3221226431/index.m3u8
-#EXTINF:-1 group-title=CCTV,CCTV3普清
+#EXTINF:-1 group-title=CCTV,CCTV3综艺普清
 http://112.17.40.140/PLTV/88888888/224/3221226485/index.m3u8
-#EXTINF:-1 group-title=山东移动直播源,CCTV4高清
+#EXTINF:-1 group-title=山东移动直播源,CCTV4国际高清
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000320/index.m3u8
-#EXTINF:-1 group-title=山东移动直播源,CCTV-5高清
+#EXTINF:-1 group-title=山东移动直播源,CCTV5体育高清
 http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221227401/index.m3u8
-#EXTINF:-1 group-title=山东移动直播源,CCTV-5FHD
+#EXTINF:-1 group-title=山东移动直播源,CCTV5体育FHD
 http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221227401/index.m3u8
-#EXTINF:-1 group-title=CCTV,CCTV5普清
+#EXTINF:-1 group-title=CCTV,CCTV5体育普清
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225591/index.m3u8
-#EXTINF:-1 group-title=CCTV,CCTV5普清
+#EXTINF:-1 group-title=CCTV,CCTV5体育普清
 http://112.17.40.140/PLTV/88888888/224/3221226554/index.m3u8
 #EXTINF:-1 group-title=山东移动直播源,CCTV5+高清
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000316/index.m3u8
@@ -29,49 +29,49 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000316/index.m3u8
 http://183.207.249.14/PLTV/3/224/3221225604/index.m3u8
 #EXTINF:-1 group-title=CCTV,CCTV5+高清
 http://117.169.120.132:8080/live/hdcctv05plus/playlist.m3u8
-#EXTINF:-1 group-title=CCTV,CCTV5+高清
+#EXTINF:-1 group-title=CCTV,CCTV5+体育赛事高清
 http://112.17.40.140/PLTV/88888888/224/3221226406/index.m3u8
-#EXTINF:-1 group-title=CCTV,CCTV6高清
+#EXTINF:-1 group-title=CCTV,CCTV6电影高清
 http://183.207.249.15/PLTV/3/224/3221225548/index.m3u8
-#EXTINF:-1 group-title=CCTV,CCTV6高清
+#EXTINF:-1 group-title=CCTV,CCTV6电影高清
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225607/index.m3u8
-#EXTINF:-1 group-title=CCTV,CCTV6普清
+#EXTINF:-1 group-title=CCTV,CCTV6电影普清
 http://112.17.40.140/PLTV/88888888/224/3221226433/index.m3u8
-#EXTINF:-1 group-title=CCTV,CCTV6普清
+#EXTINF:-1 group-title=CCTV,CCTV6电影普清
 http://112.17.40.140/PLTV/88888888/224/3221226487/index.m3u8
-#EXTINF:-1 group-title=山东移动直播源,CCTV7高清
+#EXTINF:-1 group-title=山东移动直播源,CCTV7国防军事高清
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000318/index.m3u8
-#EXTINF:-1 group-title=山东移动直播源,CCTV-8高清
+#EXTINF:-1 group-title=山东移动直播源,CCTV-8电视剧高清
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225608/index.m3u8
-#EXTINF:-1 group-title=CCTV,CCTV8普清
+#EXTINF:-1 group-title=CCTV,CCTV8电视剧普清
 http://112.17.40.140/PLTV/88888888/224/3221226330/index.m3u8
-#EXTINF:-1 group-title=CCTV,CCTV8高清
+#EXTINF:-1 group-title=CCTV,CCTV8电视剧高清
 http://117.169.120.132:8080/live/cctv-8/playlist.m3u8
-#EXTINF:-1 group-title=山东移动直播源,CCTV9高清
+#EXTINF:-1 group-title=山东移动直播源,CCTV9纪录高清
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000319/index.m3u8
-#EXTINF:-1 group-title=山东移动直播源,CCTV10高清
+#EXTINF:-1 group-title=山东移动直播源,CCTV10科教高清
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000321/index.m3u8
 #EXTINF:-1 group-title=CCTV,CCTV-11戏曲高清
 http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226315/1.m3u8
-#EXTINF:-1 group-title=CCTV,CCTV11HD
+#EXTINF:-1 group-title=CCTV,CCTV11戏曲HD
 http://112.17.40.140/PLTV/88888888/224/3221226219/index.m3u8
 #EXTINF:-1 group-title=山东移动直播源,CCTV-11戏曲普清
 http://39.137.76.32:8089/00/SNM/CHANNEL00000011/index.m3u8
-#EXTINF:-1 group-title=山东移动直播源,CCTV12高清
+#EXTINF:-1 group-title=山东移动直播源,CCTV12社会与法高清
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000322/index.m3u8
-#EXTINF:-1 group-title=CCTV,CCTV13普清
+#EXTINF:-1 group-title=CCTV,CCTV13新闻普清
 http://112.17.40.140/PLTV/88888888/224/3221226193/index.m3u8
-#EXTINF:-1 group-title=山东移动直播源,CCTV-13新闻普清
+#EXTINF:-1 group-title=山东移动直播源,CCTV13新闻普清
 http://39.137.76.32:8089/00/SNM/CHANNEL00000013/index.m3u8
-#EXTINF:-1 group-title=山东移动直播源,CCTV-14少儿高清
+#EXTINF:-1 group-title=山东移动直播源,CCTV14少儿高清
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000323/index.m3u8
-#EXTINF:-1 group-title=山东移动直播源,CCTV-14少儿普清
+#EXTINF:-1 group-title=山东移动直播源,CCTV14少儿普清
 http://39.137.76.32:8089/00/SNM/CHANNEL00000014/index.m3u8
-#EXTINF:-1 group-title=CCTV,CCTV-15音乐高清
+#EXTINF:-1 group-title=CCTV,CCTV15音乐高清
 http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226317/1.m3u8
-#EXTINF:-1 group-title=CCTV,CCTV15普清
+#EXTINF:-1 group-title=CCTV,CCTV15音乐普清
 http://112.17.40.140/PLTV/88888888/224/3221226112/index.m3u8
-#EXTINF:-1 group-title=山东移动直播源,CCTV-15音乐普清
+#EXTINF:-1 group-title=山东移动直播源,CCTV15音乐普清
 http://39.137.76.32:8089/00/SNM/CHANNEL00000015/index.m3u8
 #EXTINF:-1 ,====== 山东频道 ======
 http://1/1.m3u8
