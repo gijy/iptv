@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 ,====== 央视卫视 ======
+#EXTINF:-1 ,====== 央视频道 ======
 http://0/0.m3u8
 #EXTINF:-1 group-title=山东移动直播源,CCTV1综合高清
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000311/index.m3u8
