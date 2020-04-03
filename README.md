@@ -9,6 +9,6 @@ cctv.m3u的代码：
 #EXTM3U
 #EXTINF:-1,CCTV1高清
 http://www.ww.com:8089/00/SNM/CHANNEL00000311/index.m3u8
-结果下载jindex.m3u后，还是源代码，不能引用cctv.m3u，怎么做啊。
+结果下载index.m3u后，还是源代码，不能引用cctv.m3u，怎么做啊。
 
 To watch IPTV you just need to paste this link https://gijy.github.io/iptv/index.m3u to any player with support M3U-playlists.
